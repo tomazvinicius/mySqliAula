@@ -11,7 +11,7 @@
 </head>
 
 <body>
-    <div class="container">
+    <div class="containergit ">
         <form class="row g-3" action="<?php echo
             htmlspecialchars($_SERVER["PHP_SELF"]); ?>" method="post" enctype="multipart/form-data">
             <div class="col-12">
