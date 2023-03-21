@@ -7,6 +7,6 @@
     <title>Pacientes</title>
 </head>
 <body>
-    
+    <h1>Pacientes</h1>
 </body>
 </html>
